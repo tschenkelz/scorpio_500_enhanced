@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="79">
+	<author>Tschenkel</author>
+	<version>1.0.0.0</version>
+    <title>
+        <en>Scorpio 500 Enhanced</en>
+		<de>Scorpio 500 Enhanced</de>
+    </title>	
+	<description>
+        <en>Scorpio 500's capacity is way too small. This mod fix this.</en>
+		<de>Scorpio 500's Kapazität ist zu klein. Diese mod löst dieses Problem.</de>
+    </description>
+	===================================================
+    <iconFilename>scorpio_500_enhanced.dds</iconFilename>	
+	<multiplayer supported="true" />
+	===================================================
+    <storeItems>
+        <storeItem xmlFilename="scorpio550_e.xml"/>
+    </storeItems>
+<!-- 	
+	<brands>
+        <brand name="TSCHENKEL" title="Tschenkel industries" image="scorpio_500_enhanced.dds"/>
+    </brands> -->
+	
+	<!-- <extraSourceFiles>
+		<sourceFile filename="specializations/AddStoreCategory.lua"/>
+		<sourceFile filename="specializations/ChangeModTitle.lua"/>
+	</extraSourceFiles> -->	
+	
+	
+	<!--type="PLACEABLE" or "VEHICLE" -->
+</modDesc>
